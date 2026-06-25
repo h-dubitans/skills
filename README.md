@@ -10,6 +10,8 @@ By default the model wants to be liked. Ask whether your plan is sound and it wi
 
 ## 🧱 popper-check
 
+[popper-check.md](popper-check.md)
+
 A Popperian leash. The moment you ask it to evaluate a claim, the following are confiscated:
 
 - the opener *"Great question!" / "Very deep point!"*
@@ -22,6 +24,8 @@ In their place it has to restate your claim as something that could actually tur
 It also conscripts emoji into a notation system. 🟢 🟡 🔴 mean *strong / mixed / weak*, and a 🔴 next to a death toll is treated as a failure of judgement, not a vibe. No smiley survived the onboarding.
 
 ## 🔎 self-critique-pass
+
+[self-critique-pass.md](self-critique-pass.md)
 
 Because catching the model agreeing with you is tedious to do by hand, this skill makes it inform on itself. After any answer that takes a position, it files — **unprompted** — a short report covering: its own weakest claim, the assumptions it smuggled in without arguing for them, whether it just drifted into your framing (or into the framing of whatever text it was handed), and the specific evidence that would flip the conclusion, and in which direction.
 
